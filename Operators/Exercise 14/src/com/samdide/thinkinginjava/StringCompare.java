@@ -20,8 +20,8 @@ public class StringCompare {
 	/**
 	 * Compares strings and prints info about the comparisons.
 	 * 
-	 * @param s1 one of the strings to be compared 
-	 * @param s2 one of tho strings to be compared
+	 * @param s1 one of the two strings to be compared 
+	 * @param s2 one of the two strings to be compared
 	 */
 	public static void compare(String s1, String s2) {
 		System.out.println(s1 + " == " + s2 + ": " + (s1 == s2));
