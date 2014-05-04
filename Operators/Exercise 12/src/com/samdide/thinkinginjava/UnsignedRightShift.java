@@ -84,5 +84,4 @@ public class UnsignedRightShift {
 		i = i >>> 1;
 		System.out.println(Integer.toBinaryString(i) + " (" + i + ")");
 	}
-
 }
