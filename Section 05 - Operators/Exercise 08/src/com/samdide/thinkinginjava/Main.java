@@ -4,7 +4,6 @@ package com.samdide.thinkinginjava;
  * Exercise involving octal and hexadecimal notation.
  * 
  * @author Henrik Samuelsson
- *
  */
 public class Main {
 	/**
