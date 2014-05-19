@@ -11,7 +11,7 @@ public class MessagePrint {
 	 * Constructs an object and prints a message.
 	 */
 	MessagePrint() {
-		System.out.println("I print messages on contstruction!");
+		System.out.println("I print a message on construction!");
 	}
 	
 }
