@@ -8,7 +8,7 @@ package com.samdide.thinkinginjava;
  * and the finalize method will run if this is the case.
  * <p>
  * This program runs the finalize method a few times on my system but may or may
- * run it on other systems.
+ * not run it on other systems.
  * 
  * @author Henrik Samuelsson
  */
