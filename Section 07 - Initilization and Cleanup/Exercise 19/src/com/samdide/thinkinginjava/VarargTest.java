@@ -9,7 +9,7 @@ package com.samdide.thinkinginjava;
 public class VarargTest {
 
 	/**
-	 * Prints the strings that will be provided as arguments on a single line
+	 * Prints the strings that are provided as arguments on a single line
 	 * and ends the printing with a line break.
 	 * 
 	 * @param args
