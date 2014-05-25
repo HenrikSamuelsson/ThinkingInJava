@@ -1,4 +1,4 @@
-package com.samdide.thinkinginginjava;
+package com.samdide.thinkinginjava;
 
 /**
  * Test program for the StringHolder class.
