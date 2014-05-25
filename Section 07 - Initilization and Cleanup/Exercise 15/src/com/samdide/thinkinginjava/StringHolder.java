@@ -1,4 +1,4 @@
-package com.samdide.thinkinginginjava;
+package com.samdide.thinkinginjava;
 
 /**
  * Class that holds a string that illustrates "instance initialization".
