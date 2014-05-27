@@ -9,6 +9,7 @@ package com.samdide.tij;
  * @author Henrik Samuelsson
  */
 public class CommandLineArguments {
+	
 	/**
 	 * Entry point to class and application.
 	 * 
