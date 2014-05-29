@@ -10,7 +10,7 @@ package com.samdide.tij;
 public class EuroEnum {
 
 	public enum EuroBill {
-		FIVE, TEN, TWENTY, FIFTY, ONE_HUNDRED, TWO_HUNDRED
+		FIVE, TEN, TWENTY, FIFTY, ONE_HUNDRED, TWO_HUNDRED, FIVE_HUNDRED
 	}
 
 	/**
